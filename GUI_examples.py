@@ -3,7 +3,7 @@
 #* DESARROLLADOR: Necrovalle
 #* VERSION: 0.1 ALPHA
 #* REPOSITORIO:
-#* URL: https://github.com/Necrovalle/ejemplo.git
+#* URL: https://github.com/Necrovalle/GUI_python
 #* Notas: Solo se utilizan widgets nativos de la libreria
 #*******************************************************************************
 
